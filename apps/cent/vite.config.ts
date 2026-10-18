@@ -48,8 +48,8 @@ export default defineConfig(({ mode }) => {
             injectRegister: false,
             includeAssets: ["favicon.ico", "apple-touch-icon.png"],
             manifest: {
-                name: "Cent - 日计",
-                short_name: "Cent",
+                name: "CentBoss",
+                short_name: "Cents",
                 description: "Accounting your life - 记录每一天",
                 theme_color: "#ffffff",
                 icons: [
