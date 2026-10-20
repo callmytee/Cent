@@ -16,7 +16,7 @@ export const ICONS = [
             { name: "coffee", className: "icon-[mdi--coffee]" },
             { name: "glass-wine", className: "icon-[mdi--glass-wine]" },
             { name: "breakfast", className: "icon-[mdi--bread-slice]" },
-            { name: "launch", className: "icon-[mdi--meat]" },
+            { name: "lunch", className: "icon-[mdi--meat]" },
             { name: "dinner", className: "icon-[mdi--food-turkey]" },
             { name: "snack", className: "icon-[mdi--treat]" },
             { name: "treat", className: "icon-[mdi--food-ramen]" },
