@@ -19,7 +19,7 @@ export const ExpenseBillCategories: BillCategory[] = [
     },
     {
         name: "lunch",
-        id: "launch",
+        id: "lunch",
         type: "expense",
         icon: "icon-[mdi--meat]",
         color: "#5470c6",
